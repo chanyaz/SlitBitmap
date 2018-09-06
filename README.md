@@ -2,7 +2,7 @@
 
 一直以来，我们使用Android的Bitmap的时候，一度将其放置在view当中，可当view发生改变之后，它却是"好动分子"，可总有一些需求是希望它能"无动于衷"。就好比下面这种情况
 
-![]()
+![](https://github.com/liuzhushaonian/SlitBitmap/blob/master/screen_short/slit.gif)
 
 这个功能我最早发现只有Android官方在使用，就隐藏在媒体通知栏上，在其向上折叠的时候，背景图并未跟着折叠变形，而是保持不动，让我一下子对这个效果产生了兴趣，可一时间也搞不懂要怎样做。
 
