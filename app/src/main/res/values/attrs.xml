@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="SlitImageView">
+
+        <attr name="limitHeight" format="integer"/>
+        <attr name="srcImage" format="reference"/>
+
+
+    </declare-styleable>
+
+
+</resources>
